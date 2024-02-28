@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebrazzi.com%2F2015%2F07%2F11%2Fyazilim-dunyasinin-en-etkili-isimleri%2F&psig=AOvVaw0WZiFH9tDUfvVO2alaEJfy&ust=1709230811160000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiaiozTzoQDFQAAAAAdAAAAABAE)
+
 <h1 align="center">Hi 👋, I'm Zeynel</h1>
 <h3 align="center">A passionate Backend Developer from Türkiye</h3>
 
